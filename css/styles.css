@@ -543,13 +543,6 @@ section {
 
 /* Media Queries */
 
-@media (max-width:320px)  { 
-  /* smartphones, portrait iPhone, portrait 480x320 phones (Android) */ 
-}
-
-@media (max-width:480px)  { /* smartphones, Android phones, landscape iPhone */ 
-  
-}
 @media (max-width:600px)  { /* portrait tablets, portrait iPad, e-readers (Nook/Kindle), landscape 800x480 phones (Android) */ 
   h1 {
     font-size: 1em;
@@ -636,19 +629,3 @@ section {
     right: 1rem;
   }
 }
-@media (max-width:801px)  { /* tablet, landscape iPad, lo-res laptops ands desktops */ 
-}
-@media (max-width:1025px) { /* big landscape tablets, laptops, and desktops */ 
-
-}
-/*
-@media (min-width:1781px) { /* hi-res laptops and desktops */
-  h1 { font-size: 4em}
-  p { font-size: 3em !important}
-  #popup { padding: 3em; padding-left: 400px; }
-  .popupTitle { font-size: 3em}
-  .popupButton { font-size: 3em; width: 380px; }
-  #close { font-size: 3em; right: 1em; top: 1em; z-index: 99999; }
-  #logo { font-size: 2.5em; }
-}
-/*
