@@ -629,3 +629,7 @@ section {
     right: 1rem;
   }
 }
+
+#shadow-host-companion {
+  display: none;
+}
